@@ -1,0 +1,3 @@
+student,full name (as in Canvas),Net ID,CS ID,wisc email (not CS email),campus ID number
+1,Joseph Soukup, jsoukup2, soukup, jsoukup2@wisc.edu,9072930143
+2,Steven Mulvey, smulvey2, mulvey, smulvey2@wisc.edu,9075921206
